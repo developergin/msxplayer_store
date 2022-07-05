@@ -1,1 +1,274 @@
-git add
+[
+  {
+    "id": "forkplayer_beta",
+    "name": "ForkPlayer Beta",
+    "action": "link:http://browser.appinfo.su/",
+    "description": "{txt:msx-white: ForkPlayer} — это прикладное программное обеспечение для просмотра fxml(Fork eXtensible Markup Language)-страниц в глобальной сети. ForkPlayer используют для запроса, обработки, манипулирования и отображения содержания fxml-сайтов а также для непосредственного просмотра содержания файлов плейлистов (m3u,xml,xspf), изображений (gif, jpeg, png), аудио-видео форматов (mp3, mpeg, mkv), потокового видео (udp, hls).\",\n    \"image\": \"https://apps.msxplayer.ru/msx/static/apps/forkplayer_beta/icon.png\",\n    \"category\": [\"movies\", \"tv\", \"music\", \"free\"]\n  }, {\n  \"id\": \"forkplayer\",\n  \"name\": \"ForkPlayer OLD\",\n  \"action\": \"link:http://msx.lnka.ru/msx/distributive_forkplayer_old/\",\n  \"description\": \"{txt:msx-white: ForkPlayer} — это прикладное программное обеспечение для просмотра fxml(Fork eXtensible Markup Language)-страниц в глобальной сети. ForkPlayer используют для запроса, обработки, манипулирования и отображения содержания fxml-сайтов а также для непосредственного просмотра содержания файлов плейлистов (m3u,xml,xspf), изображений (gif, jpeg, png), аудио-видео форматов (mp3, mpeg, mkv), потокового видео (udp, hls).\",\n  \"image\": \"https://store-list.msxplayer.ru/apps/forkplayer/icon.png\",\n  \"category\": [\"movies\", \"tv\", \"music\", \"free\"]\n}, {\n  \"id\": \"lampa_lite\",\n  \"name\": \"Lampa Lite\",\n  \"action\": \"link:http://lite.lampa.mx\",\n  \"description\": \"{txt:msx-white: Lampa} — преднастроенная версия приложения Lampa для слабых тв. Сервер jin.energy.",
+    "image": "https://store-list.msxplayer.ru/apps/lampa-lite/icon.png",
+    "category": ["movies", "free"]
+  }, {
+  "id": "lampa",
+  "name": "Lampa",
+  "action": "link:http://lampa.mx",
+  "description": "{txt:msx-white: Lampa} — приложение для просмотра торрентов, использует: {txt:msx-white: TMDB} для навигации, {txt:msx-white: Torlook} для поиска самих торрентов. Для проигрывания торрентов нужен TorrServer Matrix.",
+  "image": "https://store-list.msxplayer.ru/apps/lampa/icon.png",
+  "category": ["movies", "free"]
+}, {
+  "id": "deeplex",
+  "name": "DEEPLEX",
+  "action": "link:http://smart.deeplex.cc",
+  "description": "{txt:msx-white: DEEPLEX} - новый сервис для просмотра фильмов и сериалов онлайн, несколько источников, плюс торренты. {br} Телеграм канал: {txt:msx-white: t.me/deeplex_news} ",
+  "image": "https://store-list.msxplayer.ru/apps/deeplex/icon.png",
+  "category": ["movies", "free"]
+}, {
+  "id": "ottplay",
+  "name": "OTT-Play",
+  "action": "link:http://ott-play.com/f/",
+  "description": "{txt:msx-white: OTT-Play} — мультиплатформенная плеер IPTV, доступный на телевизорах, на ТВ-приставках и на мобильных устройствах.",
+  "image": "https://store-list.msxplayer.ru/apps/ottplay/icon.png",
+  "category": ["movies", "tv", "free"]
+}, {
+  "id": "ottplayer",
+  "name": "OTT-Player",
+  "action": "link:http://widget.ottplayer.tv",
+  "description": "{txt:msx-white: OTT-Player} — Widget ottplayer.es",
+  "image": "https://store-list.msxplayer.ru/apps/ottplayer/icon.png",
+  "category": ["movies", "tv", "free"]
+}, {
+  "id": "noname",
+  "name": "NoName",
+  "action": "content:http://msx.noname.h1n.ru/msx/start.json",
+  "description": "{txt:msx-white: NoName} — Отличная сборка ссылок, многие из которых вошли в основной плейлист. Открывается только с тв.Спасибо автору плейлиста - ув. Nekto",
+  "image": "https://store-list.msxplayer.ru/apps/noname/icon.png",
+  "category": ["msx", "store", "other", "free"]
+}, {
+  "id": "youtube",
+  "name": "YouTube",
+  "action": "link:https://www.youtube.com/tv#/",
+  "description": "Ссылка для телевизоров у которых нет своего YouTube в магазине",
+  "image": "https://store-list.msxplayer.ru/apps/youtube/icon.png",
+  "category": ["other", "free"]
+}, {
+  "id": "xsmart",
+  "name": "XSmart",
+  "action": "link:http://app.xsmart.tv/",
+  "image": "https://store-list.msxplayer.ru/apps/xsmart/icon.png",
+  "category": ["movies"]
+}, {
+  "id": "kinopubtv",
+  "name": "Kinopub TV",
+  "action": "link:http://kpms.cc/bootstrap.html",
+  "description": "{txt:msx-white: Kinopub TV} - неофициальная версия клиента Кинопаб.\n Если у вас проблема с этим клиентом, то не обращайтесь в тех. поддержку Кинопаба, а пишите в чат https://inlnk.ru/578X5.",
+  "image": "https://store-list.msxplayer.ru/apps/kinopubtv/icon.png",
+  "category": ["movies", "tv"],
+  "screenshots": [
+    "http://localhost:1234/assets/links/preview/nekinopub_1.png",
+    "http://localhost:1234/assets/links/preview/nekinopub_2.png"
+  ]
+}, {
+  "id": "getstv",
+  "name": "GetsTV",
+  "action": "link:http://kinogets.ru/LG/",
+  "description": "Данная версия приложения {txt:msx-white: GetsTV} разработана для телевизоров.\n {txt:msx-white: Фильмы и Мультфильмы:} Крупнейшая база на любой вкус, обновляется ежедневно, новинки появляются сразу после премьеры в кинотеатре. Запускаются в максимально доступном качестве вплоть до 4K UHD.\n {txt:msx-white: Сериалы:} Постоянные обновления по мере выхода новых серий. В VIP сериалах можно выбрать любую озвучку у сериала и качество картинки до FHD.\n {txt:msx-white: ТВ:} Несколько бесплатных каналов. В VIP TV входит 500+ каналов. В VIP TV+ более 700+ каналов, в том числе более 200 HD.",
+  "image": "https://store-list.msxplayer.ru/apps/getstv/icon.png",
+  "category": ["movies", "tv"],
+  "screenshots": [
+    "http://localhost:1234/assets/links/preview/getstv_1.png", "http://localhost:1234/assets/links/preview/getstv_2.png"
+  ]
+}, {
+  "id": "qwedl",
+  "name": "Qwedl Movies",
+  "action": "link:https://movies.qwedl.com/",
+  "description": "{txt:msx-white: Qwedl Movies} - Фильмы, сериалы, тв каналы - онлайн и бесплатно",
+  "image": "https://store-list.msxplayer.ru/apps/qwedl/icon.png",
+  "category": ["movies"],
+  "screenshots": [
+    "http://localhost:1234/assets/links/preview/qwedl_1.png", "http://localhost:1234/assets/links/preview/qwedl_2.png"
+  ]
+}, {
+  "id": "kinoboom_msx",
+  "name": "KinoBoom MSX",
+  "action": "content:http://kb-team.club/msx/enter.php?welcome",
+  "description": "{txt:msx-white: KinoBoom MSX} - платный портал MSX для просмотра фильмов и сериалов любого жанра.{br}- Просмотр видео контента из многих источников {br}- Поиск контента (фильмы, сериалы, мультфильмы, аниме, тв-передачи){br}- Выбора качества между 240, 360, 480, 720 (HD), 1080 (FHD), 1440 (2K), 2160 (4K){br}- KBC каналы (фильмовые каналы любого жанра){br}- VIP подписка на три устройства{br}На данный момент проект ещё в разработке и пополняется ежедневно.",
+  "image": "https://store-list.msxplayer.ru/apps/kinoboom_msx/icon.png",
+  "category": ["movies", "tv", "msx"],
+  "screenshots": [
+    "http://localhost:1234/assets/links/kb_msx_1.jpg", "http://localhost:1234/assets/links/kb_msx_2.jpg",
+    "http://localhost:1234/assets/links/kb_msx_3.jpg", "http://localhost:1234/assets/links/kb_msx_4.jpg"
+  ]
+}, {
+  "id": "gdisk",
+  "name": "Google Disk",
+  "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction",
+  "description": "MSX Версия Google Disk",
+  "image": "https://store-list.msxplayer.ru/apps/gdisk/icon.png",
+  "category": ["msx", "files"],
+  "youtubeId": "iLJUYM-foY8"
+}, {
+  "id": "onedrive",
+  "name": "OneDrive",
+  "action": "menu:request:interaction:init@http://od.msx.benzac.de//interaction",
+  "description": "MSX Версия OneDrive",
+  "image": "https://store-list.msxplayer.ru/apps/onedrive/icon.png",
+  "category": ["msx", "files"],
+  "youtubeId": "DOQd7UMVWMg"
+}, {
+  "id": "soundcloud",
+  "name": "SoundCloud",
+  "action": "menu:user:http://sc.msx.benzac.de//msx/service.php",
+  "description": "MSX Версия SoundCloud",
+  "icon": "music-note",
+  "image": "none",
+  "color": "#f75219",
+  "category": ["msx", "music"],
+  "youtubeId": "FEmDx1XiusE"
+}, {
+  "id": "dropbox",
+  "name": "Dropbox",
+  "action": "menu:request:interaction:init@http://db.msx.benzac.de//interaction",
+  "description": "MSX Версия Dropbox",
+  "image": "https://store-list.msxplayer.ru/apps/dropbox/icon.png",
+  "youtubeId": "8T5XjKig6Jw",
+  "category": ["msx", "files"]
+}, {
+  "id": "node_browser",
+  "name": "Node Browser",
+  "action": "menu:request:interaction:init@http://nb.msx.benzac.de/interaction",
+  "description": "{txt:msx-white: Node Browser} - это служба, которая обеспечивает доступ к файлам вашего локального сервера Node.js (то есть видео, аудиофайлам и изображениям) через приложение Media Station X. Он использует функцию листинга каталогов пакета http-server для просмотра файлов и доступа к ним.",
+  "icon": "storage",
+  "image": "none",
+  "color": "#007ade",
+  "category": ["msx", "files"],
+  "youtubeId": "61CFhMvAbFU"
+}, {
+  "id": "tut_kino",
+  "name": "Тут кино",
+  "action": "link:http://fork-p0rtal.ru/project/",
+  "description": "{txt:msx-white: Тут кино} - скопированный от проекта VPlay сайт с содержимым от Fork-portal",
+  "image": "https://store-list.msxplayer.ru/apps/tut_kino/icon.png",
+  "category": ["movies"]
+}, {
+  "id": "my_tuner",
+  "name": "myTuner",
+  "action": "link:https://devices.mytuner.mobi/",
+  "description": "{txt:msx-white: myTuner} - бесплатные интернет-радио и подкасты",
+  "image": "https://store-list.msxplayer.ru/apps/my_tuner/icon.png",
+  "category": ["music"]
+}, {
+  "id": "radioplayer",
+  "name": "RadioPlayer",
+  "action": "link:http://tv.radioplayer.de/HiSense/",
+  "description": "{txt:msx-white: RadioPlayer} - Слушайте онлайн ФМ радиостанции РФ в прямом эфире, прослушивание online радио через мобильные приложения, слушайте радио без регистрации.",
+  "image": "https://store-list.msxplayer.ru/apps/radioplayer/icon.png",
+  "category": ["music"]
+}, {
+  "id": "wifiretv",
+  "name": "Wifire TV",
+  "action": "link:http://lite.tv.ti.ru/storage/webos/",
+  "description": "{txt:msx-white: Wifire TV}",
+  "image": "https://store-list.msxplayer.ru/apps/wifiretv/icon.png",
+  "category": ["music"]
+}, {
+  "id": "remusic",
+  "name": "RE! Music",
+  "action": "link:http://tvsam-02.ext.dc3.dailymotion.com/tvapps/dm_editor/app/index.php?id=098158d48c9e6edd&player=html5#fxm",
+  "description": "{txt:msx-white: RE! Music}",
+  "image": "https://store-list.msxplayer.ru/apps/remusic/icon.png",
+  "category": ["music"]
+}, {
+  "id": "webvideocaster",
+  "name": "Webvideocaster",
+  "action": "link:http://vewd.webvideocaster.com/",
+  "description": "{txt:msx-white: Webvideocaster}",
+  "image": "https://store-list.msxplayer.ru/apps/webvideocaster/icon.png",
+  "category": ["other"]
+}, {
+  "id": "imboom",
+  "name": "Impire Boom",
+  "action": "link:http://web.imboom.ru/",
+  "description": "{txt:msx-white: Impire Boom}",
+  "image": "https://store-list.msxplayer.ru/apps/imboom/icon.png",
+  "category": ["movies"]
+}, {
+  "id": "pxel",
+  "name": "Pxel TV",
+  "action": "link:http://app.pxel.tv/",
+  "description": "{txt:msx-white: Pxel TV}",
+  "image": "https://store-list.msxplayer.ru/apps/pxel/icon.png",
+  "category": ["movies"]
+}, {
+  "id": "vokino",
+  "name": "VoKino",
+  "action": "link:http://web.vokino.tv",
+  "description": "{txt:msx-white: VoKino}",
+  "image": "https://store-list.msxplayer.ru/apps/vokino/icon.jpg",
+  "category": ["movies"]
+}, {
+  "id": "speedtest",
+  "name": "Speedtest",
+  "action": "link:http://openspeedtest.com/Get-widget.php?Auto=3",
+  "description": "{txt:msx-white: Speedtest}",
+  "image": "https://store-list.msxplayer.ru/apps/speedtest/icon.png",
+  "category": ["other"]
+}, {
+  "id": "twitch",
+  "name": "Twitch",
+  "action": "link:https://msx.benzac.de/?start=menu:request:interaction:init@https://ttv.msx.benzac.de/interaction&leave=1",
+  "description": "MSX Версия Google Disk",
+  "image": "https://store-list.msxplayer.ru/apps/twitch/icon.png",
+  "category": ["msx", "games"],
+  "youtubeId": "8T5XjKig6Jw"
+}, {
+  "id": "yadisk",
+  "name": "Яндекс Диск",
+  "action": "link:http://3847237441.app.fxmconnect.com/#initPassword",
+  "description": "Яндекс Диск для телевизоров",
+  "image": "https://store-list.msxplayer.ru/apps/yadisk/icon.png",
+  "category": ["other", "files"]
+}, {
+  "id": "peerstv",
+  "name": "Peers TV",
+  "action": "link:http://smarttv.peers.tv/operatv/1.2.0/index.html",
+  "image": "https://store-list.msxplayer.ru/apps/peerstv/icon.png",
+  "category": ["tv"]
+}, {
+  "id": "ovp",
+  "name": "Online Video Player",
+  "action": "link:http://tsnakeman.net.ua/lg/",
+  "description": "{txt:msx-white: Приложение OVP (Online Video Player)} – условно-бесплатное (Shareware) программное обеспечение для платформ Samsung, LG Smart TV и Android, по сути, каталог общедоступных интернет-ресурсов, адаптированный под возможности Smart TV.{br}",
+  "image": "https://store-list.msxplayer.ru/apps/ovp/icon.png",
+  "category": ["movies"],
+  "screenshots": [
+    "http://localhost:1234/assets/links/preview/ovp_1.png", "http://localhost:1234/assets/links/preview/ovp_2.png"
+  ]
+}, {
+  "id": "ytkids",
+  "name": "Youtube Kids",
+  "action": "link:https://www.youtube.com/tv/kids",
+  "description": "{txt:msx-white: Виджет Youtube Kids} - Youtube для детей",
+  "image": "https://store-list.msxplayer.ru/apps/ytkids/icon.jpg",
+  "category": ["other"]
+}, {
+  "id": "rutube",
+  "name": "RuTube",
+  "action": "link:https://rutube.ru/tv-release/rutube.server-13.0.0-03/",
+  "description": "{txt:msx-white: RuTube} - импортозамещение Youtube с поддержкой роскомнадзора из коробки.{br}{ico:msx-green:add-circle} Отсутствие западного влияния.{br}{br}{ico:msx-green:add-circle} Честная система ранжирования. Всегда лучшие в топе: Соловьёв, Кеосаян и др.{br}",
+  "image": "https://store-list.msxplayer.ru/apps/rutube/icon.png",
+  "category": ["other"],
+  "screenshots": [
+    "http://localhost:1234/assets/links/preview/rutube_1.png", "http://localhost:1234/assets/links/preview/rutube_2.png"
+  ]
+}, {
+  "id": "msxhttp",
+  "name": "MSX HTTP",
+  "action": "link:http://msx.benzac.de?leave=1&back=1",
+  "description": "Самая последняя версия Media Station X.{br} Актуально для телевизоров которые не обновляют приложения с маркета.",
+  "category": ["msx", "other"]
+}, {
+  "id": "msxhttps",
+  "name": "MSX HTTPS",
+  "action": "link:https://msx.benzac.de?leave=1&&back=1&start=content:json:eyJ0eXBlIjoicGFnZXMiLCJoZWFkbGluZSI6ItCh0YHRi9C70LrQuCDQvdCwINC_0L7RgNGC0LDQu9GLLCDQutC-0YLQvtGA0YvQtSDRgtGA0LXQsdGD0Y7RgiBIVFRQUyIsInRlbXBsYXRlIjp7InRhZyI6IldlYiIsInR5cGUiOiJzZXBhcmF0ZSIsImxheW91dCI6IjAsMCwyLDMiLCJpY29uIjoibXN4LXdoaXRlLXNvZnQ6cHVibGljIiwiY29sb3IiOiJtc3gtZ2xhc3MifSwiaXRlbXMiOlt7InRpdGxlIjoiVHdpdGNoIiwiYWN0aW9uIjoibWVudTpyZXF1ZXN0OmludGVyYWN0aW9uOmluaXRAaHR0cHM6Ly90dHYubXN4LmJlbnphYy5kZS9pbnRlcmFjdGlvbiJ9LHsidGl0bGUiOiJEcm9wYm94IiwiYWN0aW9uIjoibWVudTpyZXF1ZXN0OmludGVyYWN0aW9uOmluaXRAaHR0cHM6Ly9kYi5tc3guYmVuemFjLmRlL2ludGVyYWN0aW9uIn1dfQ,,",
+  "description": "Самая последняя версия Media Station X (HTTPS).{br}",
+  "category": ["msx", "other"]
+}
+]
